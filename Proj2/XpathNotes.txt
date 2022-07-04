@@ -1,7 +1,0 @@
-//a[text()='Sitemap']/preceding::li[@class='has-sub'][14]
-//a[text()='Home']/following::ul[1]
-//a[text()='About']/following::ul[1]
-CSS ul[style='display:none']
-//li[@class='has-sub']/following::a[1]
-//a[@class='close-menu full']/following::a[2]
-//a[@class='close-menu full']/following::a[@href='#'][1]
